@@ -1,0 +1,64 @@
+.nav-item{
+    text-align: center;
+}
+.order{
+    border: none;
+    margin-left: 125px;
+    background-color: whitesmoke;
+}
+.card-title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.row {
+    margin-bottom: 30px;
+}
+.card-text{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.line{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.page{
+    text-align: center;
+}
+.brands{
+    background-color: rgb(218, 217, 217);
+}
+.name{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: rgb(76, 72, 72);
+}
+.icon{
+    border-radius: 100%;
+}
+.ctrl{
+    display: flex;
+    justify-content: space-evenly;
+}
+.store{
+    display: flex;
+    justify-content: space-evenly;
+}
+.line1{
+    margin-left: 30px;
+    padding-top: 30px;
+    color: rgb(76, 72, 72);
+}
+.store{
+    padding-top: 30px;
+}
+.pen{
+    color: rgb(120, 119, 119);
+}
+.footer{
+    background-color: rgb(206, 236, 236);
+    margin-bottom: 30px;
+}
